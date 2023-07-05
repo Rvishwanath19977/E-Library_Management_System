@@ -1,7 +1,7 @@
 # E-Library_Management_System
 7047CEM_SoftwareDevelopmentProject
 
-This repository contains the SQL DB for the E-Library Management System. 
+This repository contains the SQL DB and Unit Test Code for Review Functionality for the E-Library Management System. 
 
 ## Description
 
